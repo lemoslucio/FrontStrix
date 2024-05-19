@@ -114,6 +114,16 @@ header{
     cursor: pointer;
 }
 
+.navbar-logado{
+    width: 80%;
+}
+
+.user-logado{
+    border: none;
+    background-color: #ba6d41;
+    cursor: pointer;
+}
+
 .navbar-carrinho{
     width: 80%;
     margin-top: 5px;
